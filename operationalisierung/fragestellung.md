@@ -25,5 +25,5 @@ Dazu wird auf die Abfrage von Baumkatasterdaten der Fallstudie <a href="https://
 
 `````{admonition} Leitfrage
 :class: keypoint
-Wo lassen sich die höchsten Ausprägungen des Engagements von Bürger:innen bei der Bewässerung städtischer Bäume in Berlin feststellen? 
+In welchen Bezirken lassen sich die höchsten Ausprägungen des Engagements von Bürger:innen bei der Bewässerung städtischer Bäume in Berlin feststellen? 
 `````
