@@ -4,9 +4,17 @@ lang: de-DE
 
 (datenvisualisierung-methoden-werkzeuge)=
 # Datenvisualisierung in Dashboards
+ 
+````{margin}
+```{admonition} Hinweis
+:class: hinweis
 
 Dieses Unterkapitel soll nicht der grundlegenden Einführung in Methoden und Werkzeuge der Datenvisualisierung dienen, denn diesbezüglich gibt es bereits viele Materialien. Weiter unten finden Sie eine Auswahl an nützlichen Links zu Blogs, Kursen, Videos u. a. m., die helfen können in das Thema einzusteigen oder Wissen aufzufrischen.  
-Stattdessen erfahren Sie hier etwas zur kritischen Reflexion von Datenvisualisierungen. Vor allem bei Dashboards, die in der Regel mehrere Visualisierungen zeigen, müssen einzelne Grafiken noch schneller erfasst werden (s. z. B. Abb. 5.2). Diese Fülle von Informationen bei gleichzeitiger Abstraktion der Datenbasis bietet vielfältiges Potential, sollte aber immer auch kritisch hinterfragt werden.
+Stattdessen erfahren Sie hier etwas zur kritischen Reflexion von Datenvisualisierungen.
+
+```
+````
+Vor allem bei Dashboards, die in der Regel mehrere Visualisierungen zeigen, müssen einzelne Grafiken noch schneller erfasst werden (s. z. B. {numref}`Dashboard Gieß den Kiez`). Diese Fülle von Informationen bei gleichzeitiger Abstraktion der Datenbasis bietet vielfältiges Potential, sollte aber immer auch kritisch hinterfragt werden.
 
 
 ```{figure} /assets/GdK_Screenshot_20260313.png
@@ -19,7 +27,7 @@ alt: Das Dashboard des Projektes "Gieß des Kiez" mit Visualisierungen zur Bewä
 Screenshot des Dashoards des Projekts Gieß den Kiez vom 13.03.2026, das verschiedene Darstellungen zum Thema Bewässerung von Stadtbäumen zeigt.
 ```
 
-## Grundlagen
+## Wiederholung: Grundlagen der Datenvisualisierung
 
 Visualisierungen sind bildliche Darstellungen von Daten und sollen deren Verständnis erleichtern. Sie können mit unterschiedlichen Methoden erstellt werden und viele verschiedene Darstellungsformen haben {cite}`freyberg_visualisierung_2023`. Darüber hinaus ist die Umsetzung von Datenvisualisierung zunehmend eine Frage der Beherrschung von Code bzw. Programmiersprachen {cite}`heinicker_anderes_visualisieren_2024`.   
 Da es bereits einige Lernressourcen zum Thema Datenvisualisierung gibt, finden Sie hier einige Empfehlungen:
@@ -44,10 +52,10 @@ Da es bereits einige Lernressourcen zum Thema Datenvisualisierung gibt, finden S
 
 ## Visualisierung als Kommunikation
 
-Visuelle Darstellungen können helfen, Komplexes verständlich zu machen und auf das Wesentliche zu reduzieren. Dabei sind sie seit jeher ein zentrales Hilfsmittel, denn als kulturelle Werkzeuge strukturieren sie seit der frühen Menschheitsgeschichte unsere Vorstellungen von Raum und Zeit {cite}`heinicker_anderes_visualisieren_2024`.  
-Vor allem in der Wissenschaftskommunikation, in Bezug auf das Veranschaulichen von langen Texten, komplexen Analysen oder vielschichtigen Tabellen haben Visualisierungen ihren Reiz. Visualisierungen wie Diagrammen wird ohnehin eine gewissen Wissenschaftlichkeit, Sachlichkeit und damit Richtigkeit zugewiesen, was aber auch in die Irre führen kann. So wirken Texte mit Visualisierungen glaubhafter als solche ohne Darstellungen. Und auch das Design von interaktiven Grafiken ist entscheidend, denn die Voreinstellungen prägen bereits die Meinung der Nutzer:innen {cite}`greussing_datenvisualisierung_2019`.  
-Durch die SARS-CoV-2-Pandemie ("Corona") sind Datenvisualisierungen und Dashboards als Darstellungen großer Datenmengen der breiten Öffentlichkeit ins Bewusstsein getreten. Diese Darstellungsformen wurden gewählt, weil sie einen schnellen Überblick bieten können und bei richtigem Design auch für Laien verständlich sind {cite}`schmidt_blick_2020`.
-Oft wurden dabei gefärbte Flächenkarten, so genannte Choroplethenkarten, verwendet. Auf diese Darstellungsform geht das Kapitel [5.3 Eine Karte erstellen](map) genauer ein. Allgemein gilt es unter anderem zu beachten, dass die Darstellungen immer Aggregationen der dahinter stehenden Zahlen sind und nicht so "absolut" sind, wie sie erscheinen. Ein Problem sind beispielsweise fehlende Daten, denn diese sind nur sehr umständlich visualisierbar {cite}`schmidt_blick_2020`. Allerdings zeigen Studien auch, das eine Detailtiefe teilweise gar nicht erwünscht ist. Zumindest bei interaktiven Visualisierungen sei das Interesse an Details eher gering {cite}`greussing_datenvisualisierung_2019`.
+Visuelle Darstellungen können helfen, Komplexes verständlich zu machen und auf das Wesentliche zu reduzieren {cite}`heinicker_anderes_visualisieren_2024`.  
+Visualisierungen wie Diagrammen wird eine gewisse Wissenschaftlichkeit, Sachlichkeit und damit Richtigkeit zugeschrieben, wodurch sie für Wissenschaftskommunikation besonders relevant sind. So wirken Texte mit Visualisierungen glaubhafter als solche ohne Darstellungen. Umso entscheidender ist das Design von interaktiven Grafiken, denn die Voreinstellungen prägen die Meinung der Nutzer:innen {cite}`greussing_datenvisualisierung_2019`.
+Im Zuge der Corona-Pandemie (SARS-CoV-2, ca. 2019–2022) sind Datenvisualisierungen und Dashboards als Darstellungen großer Datenmengen der breiten Öffentlichkeit ins Bewusstsein getreten. Besonders häufig wurden gefärbte Flächenkarten (Choroplethenkarten) verwendet, um die Daten für Laien verständlich aufzubereiten {cite}`schmidt_blick_2020`. Auf diese Darstellungsform geht das Kapitel [5.3 Eine Karte erstellen](map) genauer ein. Die Darstellungen sind immer Aggregationen der dahinter stehenden Zahlen und nicht als „absolut“ zu sehen.
+Ein Problem sind beispielsweise fehlende Daten, denn diese sind nur sehr umständlich visualisierbar {cite}`schmidt_blick_2020`. Es muss entschieden werden, bis zu welchem Detailgrad Visualisierung erfolgt. Eine Detailtiefe ist nicht zwingend wünschenswert – auch von Nutzer:innenseite {cite}`greussing_datenvisualisierung_2019`.
 
 
 ## Reflexion
