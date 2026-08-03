@@ -5,12 +5,12 @@ lang: de-DE
 (daten-vorbereitung)=
 # Vorbereitung der Daten: Einlesen und Bereinigung
 
-Bevor Sie mit dem Bau eines Dashboards mit R Shiny beginnen können, müssen Sie die Daten einholen und bearbeiten. Dazu werden verschiedene Datensätze, nämlich der Berliner Baumkataster sowie manuell dokumentierte Gießdaten, Szusammengeführt und so aufbereitet, dass sie für Visualisierungen und eine explorative Analyse verwendet werden können.
+Bevor Sie mit dem Bau eines Dashboards mit R Shiny beginnen können, müssen Sie die Daten einholen und bearbeiten. Dazu werden verschiedene Datensätze, nämlich der Berliner Baumkataster sowie manuell dokumentierte Gießdaten, zusammengeführt und so aufbereitet, dass sie für Visualisierungen und eine explorative Analyse verwendet werden können.
 
 ```{admonition} Story
 :class: story
 Dr. Amir Weber möchte sich zunächst einen schnellen Überblick verschaffen: Wie werden Bäume in Berlin gegossen und wie engagieren sich die Bürger:innen dabei? 
-Bei seiner Recherche nimmt er erneut die Plattform <a href="https://www.giessdenkiez.de/stats?lang=de" class="external-link" target="_blank">Gieß den Kiez</a> genauer unter die Lupe. Besonders beeindruckt ihn, wie anschaulich die Daten dort visualisiert sind (s. {numref}`Dashboard Gieß den Kiez` in Kapitel 5.1). Die Mischung aus Angaben zu Bäumen und Gießenden, Karten und Zeitverläufen inspirieren ihn so sehr, dass er sie für seine eigene R-Shiny-Anwendung übernehmen möchte. Dazu benötigt er folgende Daten:
+Bei seiner Recherche nimmt er erneut die Plattform <a href="https://www.giessdenkiez.de/stats?lang=de" class="external-link" target="_blank">Gieß den Kiez</a> genauer unter die Lupe. Besonders beeindruckt ihn, wie anschaulich die Daten dort visualisiert sind (s. {numref}`Dashboard Gieß den Kiez` in Kapitel 5.1). Die Mischung aus Angaben zu Bäumen und Gießenden, Karten und Zeitverläufen inspirieren ihn so sehr, dass er sie für seine eigene R-Shiny-Anwendung übernehmen möchte. Dazu benötigt er aber erst einmal Daten, welche dann zwecksgemäß bereinigt werden müssen.
 ```
 
 
@@ -240,7 +240,7 @@ Einige Bäume verfügen nicht über eine Angabe zu ihrem Bezirk. Um eine aggregi
 
 **Code-Erklärung:**
 
-**1. Die Bezirksdatebn laden**
+**1. Die Bezirksdaten laden**
 
 ```r
 local_geojson <- "data/bezirksgrenzen.geojson"

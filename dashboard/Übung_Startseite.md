@@ -20,7 +20,7 @@ Nachdem Amir Weber sich die notwedigen Grundkenntnisse angeeignet hat, geht er z
 ```{admonition} Zweck dieser Übung 
 :class: lernziele
 
-Der Aufbau eines Dashboards als Form der Visualisierung in der Verwaltungswissenschaft umfasst die Gestaltung einer übersichtlichen Startseite für ein R-Shiny-Dashboard. Diese soll zentrale Informationen klar strukturiert darstellen, den Nutzer:innen einen schnellen Überblick verschaffen und gleichzeitig als intuitiver Einstiegspunkt in die Anwendung dienen.
+Der Aufbau eines Dashboards als Form der Visualisierung in der Verwaltungswissenschaft umfasst die Gestaltung einer übersichtlichen Startseite für ein R-Shiny-Dashboard. Diese soll zentrale Informationen klar und strukturiert darstellen, den Nutzer:innen einen schnellen Überblick verschaffen und gleichzeitig als intuitiver Einstiegspunkt in die Anwendung dienen. Hier wird präsentiert, wie man eine solche Startseite erstellen kann.
 
 ```
 
@@ -56,11 +56,15 @@ alt: Ein Screenshot, der zeigt Dashboard Startseite
 Startseite des Dashboards: Auf der Startseite können ein oder mehrere Bezirke über eine Filterfunktion ausgewählt werden. Die beiden Kacheln zeigen jeweils die Anzahl der erfassten Bäume sowie die Anzahl der bereits bewässerten Bäume für die jeweilige Bezirksauswahl. Zusätzlich wird der Berliner Gesamtbestand an Bäumen als Referenz angegeben. (Quelle: eigene Ausarbeitung)
 ``` 
 
-Für die Startseite seiner Anwendung möchte Amir eine **kompakte Kennzahlenübersicht** erstellen. Diese soll den Nutzer:innen helfen, sofort die Größenordnung des Gießverhaltens einzuschätzen. Zum Beispiel, wie viele Bäume insgesamt erfasst sind und wie viele davon gegossen wurden. Der Mehrwert einer Startseite mit Kennzahlenkacheln umfasst also die schnellere Orientierung. Nutzer:innen erfassen auf einen Blick den aktuellen Stand der Gießaktivitäten, ohne durch die Anwendung navigieren zu müssen. Dies spart Zeit und erleichtert den Einstieg. Die Kennzahlen dienen als Ausgangspunkt: man kann von dort aus zu detaillierteren Visualisierungen und Analysen navigieren.
+Für die Startseite plant Amir eine Kennzahlenübersicht zur schnellen Nutzer*innenorientierung. Für Nutzende soll direkt ablesbar sein:
 
-Zusätzlich plant er **Filtermöglichkeiten** nach **Bezirk**, um die Kennzahlen gezielt einzugrenzen und regionale Unterschiede sichtbar zu machen. Damit lassen sich die Daten auch in einer feineren Granularität, von stadtweiter Übersicht bis hin zu einzelnen Bezirken, betrachten. Die auf der Startseite dargestellten Kennzahlen werden dabei ausschließlich als **absolute Werte** angezeigt und **nicht ins Verhältnis** zueinander gesetzt, da sie zunächst eine verlässliche Datengrundlage vermitteln sollen, bevor weiterführende Analysen und Vergleiche umgesetzt werden.
+a) die Größenordnung des Gießverhaltens einzuschätzen (z. B. wie viele Bäume insgesamt erfasst sind, wie viele davon gegossen wurden)
+b) Stand der Gießaktivitäten
+Von dort aus können sie anschließend weiter navigieren.
 
-Als Nächstes bauen Sie die Startseite des Dashboards mit R. Nach jedem Codeabschnitt werden kurz die verwendeten Techniken und Befehle erklärt. Dabei widmen Sie sich sowohl der Benutzeroberfläche (UI), als auch der Serverseite des R-Shiny-Dashboards.
+Zusätzlich plant er **Filtermöglichkeiten** nach **Bezirken**, um Kennzahlen einzugrenzen und regionale Unterschiede sichtbar zu machen. Die auf der Startseite dargestellten Kennzahlen werden dabei ausschließlich als **absolute Werte** angezeigt und **nicht ins Verhältnis** zueinander gesetzt.
+
+Als Nächstes bauen Sie die Startseite des Dashboards mit R. Nach jedem Codeabschnitt werden die verwendeten Techniken und Befehle erklärt. Dabei widmen Sie sich sowohl der Benutzeroberfläche (UI), als auch der Serverseite des R-Shiny-Dashboards.
 
 ## Benutzeroberfläche (UI)
 
