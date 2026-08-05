@@ -19,7 +19,7 @@ Schauen Sie mal rein!
 ```
 ````
 
-In diesem Abschnitt werden Ihnen die Daten vorgestellt, die zur Beantwortung der Leitfrage und als Datenbasis für ein Dashboard benötigt werden. Im nächsten Abschnitt werden Sie diese dann einlesen.
+Dieser Abschnitt wirkt auf den ersten Blick vielleicht wenig anschaulich, legt aber das Fundament für alle folgenden Schritte im Projekt. Ihnen werden die Daten vorgestellt, die zur Beantwortung der Leitfrage und als Datenbasis für ein Dashboard benötigt werden. Im nächsten Abschnitt werden Sie diese dann einlesen.
 
 Dabei handelt es sich um drei zentrale Datenquellen: 
 - **Baumbestandsdaten** (Zugriff über WFS-Schnittstelle)
