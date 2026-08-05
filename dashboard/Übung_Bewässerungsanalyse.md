@@ -7,18 +7,16 @@ lang: de-DE
 ```{admonition} Story
 :class: story
 
-Nachdem Amir mithilfe der Bezirkskarte herausgefunden hat, in welchen Teilen Berlins besonders viele Bäume gegossen wurden, stellt er sich eine neue Frage:
-Reicht es wirklich aus, nur zu zählen, wie viele Bäume gegossen wurden?
-
-Er merkt schnell: Diese Darstellung zeigt zwar den Umfang des Engagements, aber nicht die Intensität der Bewässerung. So könnten die Bürger:innen eines Bezirks eine große Anzahl von Bäumen gegossen haben, dabei jedoch jeweils nur geringe Wassermengen eingesetzt haben. In einem anderen Bezirk könnten hingegen weniger Bäume bewässert worden sein, die Bürger:innen hätten dafür jedoch deutlich größere Wassermengen pro Baum herangeschleppt und damit einen höheren Aufwand pro Baum betrieben.
+Nachdem Amir mithilfe der Bezirkskarte herausgefunden hat, in welchen Teilen Berlins besonders viele Bäume gegossen wurden, stellt er fest: Die Bürger:innen eines Bezirks können viele verschiedene Bäumen gegossen haben, aber jedem nur einen Schluck Wasser gegeben haben.
+In einem anderen Bezirk haben die Bürger:innen vielleicht jeweils nur den Baum vor ihrem Haus gegossen, aber dafür eine ganze Gießkanne pro Baum herangeschleppt. Dann haben sie einen höheren Aufwand pro Baum betrieben. Zählt das nicht viel mehr?
 ```
 
 ```{admonition} Zweck dieser Übung
 :class: lernziele
 
-Diese Übung zeigt Ihnen, wie sich durch unterschiedliche Kennzahlen neue Perspektiven auf eine Fragestellung ergeben. Während zuvor die Zahl der gegossenen Bäume im Mittelpunkt stand, analysieren Sie nun die Bewässerungsmenge in Litern.
-
-Sie lernen dabei, wie Daten aggregiert, umgerechnet und visualisiert werden können, um Bezirke hinsichtlich ihrer gesamten Bewässerungsleistung oder der durchschnittlichen Wassermenge pro Baum zu vergleichen. Dadurch wird deutlich, dass die Auswahl der Messgröß (die Operationalisierung) zu verschiedenen analytischen Ergebnissen führen kann: Ein Bezirk, der bei der Anzahl gegossener Bäume gut abschneidet, liegt bei der Wassermenge möglicherweise nicht vorne (und umgekehrt).
+Während zuvor die Zahl der gegossenen Bäume im Mittelpunkt stand, visualisieren Sie nun die Bewässerungsmenge in Litern.
+Ziel ist es, Bezirke hinsichtlich ihrer gesamten Bewässerungsleistung oder der durchschnittlichen Wassermenge pro Baum zu vergleichen. Sie lernen, wie Daten aggregiert, umgerechnet und visualisiert werden können.
+Dadurch wird deutlich, dass die Auswahl der Messgröß (die Operationalisierung) zu verschiedenen analytischen Ergebnissen führen kann: Ein Bezirk, der bei der Anzahl gegossener Bäume gut abschneidet, liegt bei der Wassermenge möglicherweise nicht vorne (und umgekehrt).
 
 ```
 
