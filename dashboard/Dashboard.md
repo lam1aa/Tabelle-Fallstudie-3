@@ -29,7 +29,7 @@ Dabei können Sie folgende Lernziele erreichen:
 :end-before: "<!-- END: Dashboard - Einzelelemente -->"
 ```
 
-Dies ist damit der 3. der 4 Abschnitte dieser OER wie Abb. 4.1 zeigt.
+Dies ist damit der letzte der 4 Abschnitte dieser OER wie Abb. 4.1 zeigt.
 
 ```{figure} /assets/steps_cs3_4.png
 ---
