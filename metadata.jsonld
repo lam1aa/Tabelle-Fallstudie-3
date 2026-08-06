@@ -301,7 +301,7 @@
       "educationalAlignment": [
         {
           "@type": "AlignmentObject",
-          "targetName": "Sie können die Entwicklung einer Fragestellung und ihre Operationalisierung am Beispiel der Ausprägungen des Engagements von Bürger:innen erläutern.",
+          "targetName": "Sie können die Entwicklung einer Fragestellung am Beispiel der Ausprägungen des Engagements von Bürger:innen erläutern.",
           "educationalFramework": "QUADRIGA Competency Framework",
           "targetDescription": "Competency: nicht anwendbar | Bloom's: 2 Verstehen | Data Flow: nicht anwendbar"
         }
@@ -372,10 +372,9 @@
         },
         {
           "@type": "AlignmentObject",
-          "targetName": "Sie können ein Dashboard mit R Shiny entwickeln und gestalten.",
+          "targetName": "Sie können ein einfaches Dashboard mit wesentlichen Komponenten (z. B. Startseite und Zeiterlauf) erstellen.",
           "educationalFramework": "QUADRIGA Competency Framework",
-          "targetDescription": "Competency: 4.2 Visualisierung | Bloom's: 3 Anwenden | Data Flow: 4 Analyse",
-          "lrmi:assesses": "keins"
+          "targetDescription": "Competency: 4.2 Visualisierung | Bloom's: 3 Anwenden | Data Flow: 4 Analyse"
         }
       ]
     }

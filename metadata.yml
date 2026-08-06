@@ -148,8 +148,8 @@ chapters:
   learning-goal: Formulieren der Leitfrage und Operationalisieren des Verfahrens
   time-required: TODO
   learning-objectives:
-  - learning-objective: Sie können die Entwicklung einer Fragestellung und ihre Operationalisierung
-      am Beispiel der Ausprägungen des Engagements von Bürger:innen erläutern.
+  - learning-objective: Sie können die Entwicklung einer Fragestellung am Beispiel
+      der Ausprägungen des Engagements von Bürger:innen erläutern.
     competency: nicht anwendbar
     data-flow: nicht anwendbar
     blooms-category: 2 Verstehen
@@ -201,11 +201,11 @@ chapters:
     data-flow: 4 Analyse
     blooms-category: 2 Verstehen
     assessment: keins
-  - learning-objective: Sie können ein Dashboard mit R Shiny entwickeln und gestalten.
+  - learning-objective: Sie können ein einfaches Dashboard mit wesentlichen Komponenten
+      (z. B. Startseite und Zeiterlauf) erstellen.
     competency: 4.2 Visualisierung
     data-flow: 4 Analyse
     blooms-category: 3 Anwenden
-    assessment: keins
 date-issued: '2025-03-21'
 date-modified: '2026-06-26'
 version: 0.0.1

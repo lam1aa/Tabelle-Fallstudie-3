@@ -3,7 +3,7 @@
   <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Tabelle-Fallstudie-3/#chapter_0_objective_0">
     <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
     <schema:targetDescription>Competency: nicht anwendbar | Bloom's: 2 Verstehen | Data Flow: nicht anwendbar</schema:targetDescription>
-    <schema:targetName>Sie können die Entwicklung einer Fragestellung und ihre Operationalisierung am Beispiel der Ausprägungen des Engagements von Bürger:innen erläutern.</schema:targetName>
+    <schema:targetName>Sie können die Entwicklung einer Fragestellung am Beispiel der Ausprägungen des Engagements von Bürger:innen erläutern.</schema:targetName>
   </schema:AlignmentObject>
   <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Tabelle-Fallstudie-3/#chapter_1_objective_0">
     <lrmi:assesses>keins</lrmi:assesses>
@@ -36,10 +36,9 @@
     <schema:targetName>Sie können den Aufbau und die Gliederung eines Dashboards erklären.</schema:targetName>
   </schema:AlignmentObject>
   <schema:AlignmentObject rdf:about="https://quadriga-dk.github.io/Tabelle-Fallstudie-3/#chapter_3_objective_1">
-    <lrmi:assesses>keins</lrmi:assesses>
     <schema:educationalFramework>QUADRIGA Competency Framework</schema:educationalFramework>
     <schema:targetDescription>Competency: 4.2 Visualisierung | Bloom's: 3 Anwenden | Data Flow: 4 Analyse</schema:targetDescription>
-    <schema:targetName>Sie können ein Dashboard mit R Shiny entwickeln und gestalten.</schema:targetName>
+    <schema:targetName>Sie können ein einfaches Dashboard mit wesentlichen Komponenten (z. B. Startseite und Zeiterlauf) erstellen.</schema:targetName>
   </schema:AlignmentObject>
   <schema:Book rdf:about="https://quadriga-dk.github.io/Tabelle-Fallstudie-3/">
     <dc:type>Jupyter Book</dc:type>
