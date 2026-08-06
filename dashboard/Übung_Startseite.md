@@ -597,7 +597,7 @@ Für die Startseite heißt das vor allem:
 
 ## Reflexion
 
-Die zentrale Leitfrage der Fallstudie lautet: **Wo lassen sich die höchsten Ausprägungen des Engagements von Bürger:innen bei der Bewässerung städtischer Bäume in Berlin feststellen?**
+Die zentrale Leitfrage der Fallstudie lautet: **In welchen Bezirken lassen sich die höchsten Ausprägungen des Engagements von Bürger:innen bei der Bewässerung städtischer Bäume in Berlin feststellen?**
 
 Die Startseite des Dashboards ermöglicht einen ersten Überblick darüber, in welchen Bezirken es wieviele Bäume gibt und wieviele davon gegossen wurden. In **absoluten Zahlen** zeigt sich dabei das höchste Engagement bei den Bürger:innen in **Mitte**, gefolgt von **Tempelhof-Schöneberg** und **Friedrichshain-Kreuzberg**.  
 

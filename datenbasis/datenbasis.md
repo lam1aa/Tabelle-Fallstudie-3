@@ -21,6 +21,11 @@ Schauen Sie mal rein!
 
 Dieser Abschnitt wirkt auf den ersten Blick vielleicht wenig anschaulich, legt aber das Fundament für alle folgenden Schritte im Projekt. Ihnen werden die Daten vorgestellt, die zur Beantwortung der Leitfrage und als Datenbasis für ein Dashboard benötigt werden. Im nächsten Abschnitt werden Sie diese dann einlesen.
 
+```{admonition} Leitfrage
+:class: hinweis
+In welchen Bezirken lassen sich die höchsten Ausprägungen des Engagements von Bürger:innen bei der Bewässerung städtischer Bäume in Berlin feststellen?
+```
+
 Dabei handelt es sich um drei zentrale Datenquellen: 
 - **Baumbestandsdaten** (Zugriff über WFS-Schnittstelle)
 - **Bezirksgrenzen** (GeoJSON-Format)

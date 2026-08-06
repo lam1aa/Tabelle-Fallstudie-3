@@ -14,5 +14,8 @@ lang: de-DE
 
 ```
 
-Im zurückliegenden Kapitel wurde die [Leitfrage](fragestellung) der vorliegenden Fallstudie formuliert. Um diese Leitfrage für eine explorative Analyse nutzbar zu machen, wurde eine [Operationalisierung](operationalisierung) vorgenommen, durch die Messparameter definiert werden konnten, die zur Beantwortung der Frage führen können.  
+Im zurückliegenden Kapitel wurde die [Leitfrage](fragestellung) der vorliegenden Fallstudie formuliert: In welchen Bezirken lassen sich die höchsten Ausprägungen des Engagements von Bürger:innen bei der Bewässerung städtischer Bäume in Berlin feststellen?  
+
+Um diese Leitfrage für eine explorative Analyse nutzbar zu machen, wurde eine [Operationalisierung](operationalisierung) vorgenommen, durch die Messparameter definiert werden konnten, die zur Beantwortung der Frage führen können.  
+
 Im nächsten Kapitel werden Sie auf die Datengrundlage eingehen, auf der die durchzuführende Analyse basiert.

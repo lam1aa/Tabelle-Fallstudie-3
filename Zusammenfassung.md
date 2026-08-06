@@ -6,7 +6,7 @@ lang: de-DE
 ## Zusammenfassung
 
 In dieser Fallstudie wurde im Rahmen einer Persona-Story um den Forscher Dr. Amir Weber ein Dashboard gebaut. Im Mittelpunkt stand dabei die Leitfrage:
-**Wo lassen sich die höchsten Ausprägungen des Engagements von Bürger:innen bei der Bewässerung städtischer Bäume in Berlin feststellen?** Dabei wurde deutlich, dass die Antwort maßgeblich von der gewählten Operationalisierung abhängt.
+**In welchen Bezirken lassen sich die höchsten Ausprägungen des Engagements von Bürger:innen bei der Bewässerung städtischer Bäume in Berlin feststellen?** Dabei wurde deutlich, dass die Antwort maßgeblich von der gewählten Operationalisierung abhängt.
 
 **Vom Absoluten zum Relativen:** Ein erster Blick auf die absoluten Zahlen der Startseite sah den Bezirk Mitte an der Spitze. Da dies jedoch die unterschiedliche Größe der Bezirke ignoriert, ermöglichte erst die Normalisierung einen fairen Vergleich. Hier verschob sich das Ergebnis: Friedrichshain-Kreuzberg weist den höchsten prozentualen Anteil bewässerter Bäume auf.
 
