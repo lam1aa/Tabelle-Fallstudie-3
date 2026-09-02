@@ -389,7 +389,7 @@ Die Leitfrage, in welchem Berliner Bezirk die höchsten Ausprägungen des Bürge
 Durch die in diesem Kapitel ergänzend gestaltete Choroplethenarte der Bezirke entsteht nun **erstmals ein räumlicher Gesamtüberblick** über die Verteilung der Bewässerungsaktivitäten innerhalb Berlins. Die Visualisierung bestätigt die bisherigen Ergebnisse und zeigt, dass **Friedrichshain-Kreuzberg**, gefolgt von **Tempelhof-Schöneberg** und **Mitte**, die höchsten Anteile bewässerter Bäume aufweisen.
 
 
-Doch war die Choroplethenkarte wirklich die bestmögliche Visualisierungsform? Die Plattform <a href="https://datavizcatalogue.com/methods/choropleth.html" class="external-link" target="_blank">The Data Visualization Catalogue</a> listet hierzu folgende Vor- und Nachteile auf:
+Doch war die Choroplethenkarte wirklich die bestmögliche Visualisierungsform? Die Plattform <a href="https://datavizcatalogue.com/methods/choropleth.html" class="external-link" target="_blank">The Data Visualisation Catalogue</a> listet hierzu folgende Vor- und Nachteile auf:
 
 | Vorteile | Nachteile |
 | :--- | :--- |
@@ -404,12 +404,12 @@ Gehen Sie nun auf die  <a href="https://datavizcatalogue.com/methods/Index.html"
 name: Selection of map visualisations
 alt: Screenshot from datavizcatalogue.com
 ---
-Auswahl an Kartenvisualisierungen [Quelle: <a href="https://datavizcatalogue.com/methods/location.html" class="external-link" target="_blank">The Data Visualization Catalogue (abgerufen am 10.06.2026)</a>]
+Auswahl an Kartenvisualisierungen [Quelle: <a href="https://datavizcatalogue.com" class="external-link" target="_blank">The Data Visualization Catalogue (abgerufen am 10.06.2026)</a>]
 ``` 
 
 ### Übung
 
-Erläutern Sie mithilfe der Plattform <a href="https://datavizcatalogue.com/methods/location.html" class="external-link" target="_blank">The Data Visualization Catalogue</a> die Vor- und Nachteile der vorgeschlagenen Alternativen für geografische Darstellungen und setzen Sie diese in Beziehung zu einer Choroplethenkarte.
+Erläutern Sie mithilfe der Plattform <a href="https://datavizcatalogue.com" class="external-link" target="_blank">The Data Visualisation Catalogue</a> die Vor- und Nachteile der vorgeschlagenen Alternativen für geografische Darstellungen und setzen Sie diese in Beziehung zu einer Choroplethenkarte.
 
 ```{code-cell} ipython3
 :tags: [remove-input]

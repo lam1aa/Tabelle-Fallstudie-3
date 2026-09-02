@@ -44,10 +44,12 @@ Da es bereits einige Lernressourcen zum Thema Datenvisualisierung gibt, finden S
 - Das Civic Data Lab hat darüber hinaus einen eigenen Lernraum geschaffen, in dem es einen Kurs zu <a href="https://moodle.gi.de/moodle/enrol/index.php?id=16" class="external-link" target="_blank">Datenvisualisierung und Storytelling</a> gibt. Der Kurs vermittelt in drei aufeinander aufbauenden Modulen sowohl die Konzepte hinter Visualisierung und Storytelling als auch praktische Methoden und lehrt, warum und wie man Daten als Geschichte erzählt.
 - In der <a href="https://www.datawrapper.de/academy" class="external-link" target="_blank">Datawrapper Academy</a> lernen Sie, wie Sie mit dem gleichnamigen Tool, das auch kostenfrei nutzbar ist, Visualisierungen erstellen.
 
-**Weitere Einblicke:**
+```{admonition} Weitere Einblicke
+:class: seealso
 - Die Webseite <a href="https://ourworldindata.org/" class="external-link" target="_blank">Our World in Data</a> (englisch) bietet zu zahlreichen Themen, die aus werwaltungswissenschaftlicher Sicht interessant sind, visualisierte Daten an. Ein Browsen lohnt sich allein wegen der Fülle der gezeigten Darstellungsformen.
 - Im Rahmen von <a href="https://www.quadriga-dk.de/de/" class="external-link" target="_blank">Quadriga</a> wurde in einer anderen Fallstudie über Studentische Filme bereits ein <a href="https://quadriga-dk.github.io/Bewegtes-Bild-Fallstudie-2/auswertung/visualisierung.html" class="external-link" target="_blank">Kapitel über Visualisierung</a> kreiert, in das ein Blick auch aus Perspektive der Verwaltung(swissenschaft) lohnt.
 - Auf der Webseite von <a href="https://lisacharlottemuth.com/articles" class="external-link" target="_blank">Lisa Charlotte Muth</a> finden Sie viele Beiträge und Wissenswertes rund um das Thema Datenvisualisierungen (auf Englisch).
+```
 
 
 ## Visualisierung als Kommunikation

@@ -510,7 +510,7 @@ shinyApp(ui = ui, server = server)
 
 Bei der gewählten Form der Darstellung handelt es sich um ein klassisches **Liniendiagramm (Line Graph)**. 
 
-Laut dem <a href="https://datavizcatalogue.com/methods/location.html" class="external-link" target="_blank">The Data Visualization Catalogue</a> eignen sich Liniendiagramme gut, um quantitative Werte über ein kontinuierliches Intervall oder einen bestimmten Zeitraum darzustellen. Sie werden am häufigsten eingesetzt, um **Trends aufzuzeigen** und zu analysieren, wie sich Daten über die Zeit verändert haben. 
+Laut dem <a href="https://datavizcatalogue.com" class="external-link" target="_blank">Data Visualisation Catalogue</a> eignen sich Liniendiagramme gut, um quantitative Werte über ein kontinuierliches Intervall oder einen bestimmten Zeitraum darzustellen. Sie werden am häufigsten eingesetzt, um **Trends aufzuzeigen** und zu analysieren, wie sich Daten über die Zeit verändert haben. 
 
 Die visuelle Stärke dieser Darstellung liegt in ihrer einfachen Lesbarkeit:
 * Ein Aufwärtstrend (steigende Linie) zeigt intuitiv eine Zunahme der Werte (in unserem Fall: mehr gegossene Liter für bestimmte Pflanzjahre).
@@ -521,7 +521,7 @@ Unser Diagramm nutzt auf der y-Achse den quantitativen Wert (die aggregierte Was
 
 Das Liniendiagramm ist jedoch nicht die einzige Möglichkeit, Daten über einen bestimmten Zeitraum hinweg darzustellen. Es gibt viele weitere Visualisierungsmethoden, die speziell darauf ausgelegt sind, Veränderungen im Zeitverlauf zu kommunizieren. 
 
-Nutzen Sie den <a href="https://datavizcatalogue.com/methods/location.html" class="external-link" target="_blank">The Data Visualization Catalogue</a> (Filter: "Search by Function" > "Over Time"), um alternative Darstellungsformen zu recherchieren. 
+Nutzen Sie den <a href="https://datavizcatalogue.com" class="external-link" target="_blank">Data Visualisation Catalogue</a> (Filter: "Search by Function" > "Over Time"), um alternative Darstellungsformen zu recherchieren. 
 
 Beispiele für solche Alternativen sind:
 * **Area Graph** (Flächendiagramm)
